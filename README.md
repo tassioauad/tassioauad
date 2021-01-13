@@ -1,6 +1,6 @@
 ### Hi, I'm Tássio Auad
 
-Specialist in Software Architecture Distributed by the Pontifical Catholic University of Minas Gerais, Specialist in Software Engineering by the Pontifical Catholic University of Minas Gerais, graduated in Information Systems at the Higher Education Center of Juiz de Fora. Studying specialization in Data Science and Big Data at the Pontifical Catholic University of Minas Gerais. I'm currently a Systems Analyst at the Document Management Cell and Professor of the Undergraduate Course in Software Engineering at the University of Vassouras.
+Specialist in Software Architecture Distributed by the Pontifical Catholic University of Minas Gerais, Specialist in Software Engineering by the Pontifical Catholic University of Minas Gerais, graduated in Information Systems at the Higher Education Center of Juiz de Fora. Studying specialization in Data Science and Big Data at the Pontifical Catholic University of Minas Gerais. I'm currently a Systems Analyst at the Célula Gestão de Documentos and Professor of the Undergraduate Course in Software Engineering at the University of Vassouras.
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassioauad&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  |  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tassioauad&hide=prs,issues,contribs&count_private=true&show_icons=true)  |
 | ------------------- | ------------------- |
